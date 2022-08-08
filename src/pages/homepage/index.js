@@ -62,7 +62,7 @@ export default function Homepage() {
                                     I am fluent at <span className="purple">C++</span> and familiar with <span className="purple">Javascript and Python</span>
                                     <br/>
                                     <br/>
-                                    My favorate field are building new <span className="purple">Web App</span> associated with <span className="purple">Machine learning</span> to make it more intelligent
+                                    My favorate fields are building new <span className="purple">Web App</span> associated with <span className="purple">Machine learning</span> to make it more intelligent
                                     <br />
                                     <br />
                                     Whenever possible, I also apply <span className="purple">Node.js</span> and <span className="purple">Modern Javascript Framework</span> like <span className="purple">React.js</span>
